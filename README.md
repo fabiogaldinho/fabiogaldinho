@@ -128,14 +128,6 @@ My goal is to contribute with innovative and efficient solutions by using data a
     />
     <img
         align="left" 
-        alt="ggplot2" 
-        title="ggplot2"
-        width="30px" 
-        style="padding-right: 10px;"
-        src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Ggplot2_hex_logo.svg"
-    />
-    <img
-        align="left" 
         alt="Google Colab" 
         title="Google Colab"
         width="30px" 
@@ -158,8 +150,6 @@ My goal is to contribute with innovative and efficient solutions by using data a
         style="padding-right: 10px;"
         src="https://www.svgrepo.com/show/354428/tableau-icon.svg"
     />
-</p>
-<p align="left">
     <img
         align="left" 
         alt="Power BI" 
