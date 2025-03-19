@@ -159,3 +159,5 @@ My goal is to contribute with innovative and efficient solutions by using data a
         src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
     />
 </p>
+<br>
+<br>
